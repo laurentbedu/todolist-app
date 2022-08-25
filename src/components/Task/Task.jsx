@@ -4,7 +4,8 @@ import { FaTrashAlt } from "react-icons/fa";
 
 const Task = ({title, completed}) => {
 
-    
+    //créer un state pour le completed
+    //ajouter l'evt onChange sur l'input check
 
     return(<>
         
